@@ -25,8 +25,6 @@ It includes features such as:
 - **AI roadmap generator**
 - **Real-time chat using Socket.io**
 - **Course payments using Razorpay**
-- **Certificate generation after course completion**
-- **Gamification with XP, badges, streaks, and leaderboard**
 - **Modern responsive UI with dashboard-based workflow**
 
 The goal of this project is to create a **scalable AI-powered education platform** that goes beyond a basic LMS by adding automation, personalization, and intelligent learning assistance.

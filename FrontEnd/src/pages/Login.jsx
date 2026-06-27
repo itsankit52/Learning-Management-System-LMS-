@@ -74,7 +74,7 @@ function Login() {
                             </p>
                         </div>
 
-                        {/* Features */}
+                        {/* Features of courses*/}
                         <div className="mt-10 space-y-5">
                             <div className="flex items-start gap-3">
                                 <div className="w-11 h-11 rounded-xl bg-white/20 flex items-center justify-center">
